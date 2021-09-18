@@ -3,6 +3,8 @@ plugins {
     id 'kotlin-android'
 }
 
+apply plugin: 'com.antfortune.freeline'
+
 android {
     compileSdk 31
 
